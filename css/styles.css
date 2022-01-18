@@ -1,0 +1,29 @@
+.wanjiku{
+    background-color: white;
+    position: relative;
+    padding: 40px;
+}
+.mydiv1{
+    border:1px solid blue;
+    width: 50%;
+
+}
+.mydiv2{
+    border:1px solid blue;
+    width: 70%;
+    
+}
+td {
+    border: 1px solid black;
+  }
+th {
+    border: 1px sold skyblue;
+  }
+table{
+    background-color: slategray;
+    border: 1px solid black;
+    width: 50%;
+}
+.tableh{
+   background-color:blue;
+}
